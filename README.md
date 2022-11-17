@@ -2,7 +2,7 @@
 
 ### Generacion JAR
 
-Ejecutar en Gradle la tarea build/bootJar
+Ejecutar en Gradle la tarea build/bootJar <br>
 El jar se genera en la carpeta build/libs
 
 ### Despliegue
