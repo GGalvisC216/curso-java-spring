@@ -1,1 +1,1 @@
-{"id":"02c10633-7e90-4bab-b993-9125ae3a4559","name":"Prod","values":[{"key":"base_url","value":"http://localhost:8081","enabled":true,"type":"default"}]}
+{"id":"02c10633-7e90-4bab-b993-9125ae3a4559","name":"Prod","values":[{"key":"base_url","value":"https://platzi-market-ggalvisc.herokuapp.com","enabled":true,"type":"default"}]}
