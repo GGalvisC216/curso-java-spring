@@ -21,6 +21,8 @@ dependencies {
 	implementation 'io.springfox:springfox-swagger-ui:2.9.2'
 	testImplementation 'junit:junit:4.13.1'
 
+	implementation 'io.jsonwebtoken:jjwt:0.9.1'
+
 	runtimeOnly 'org.postgresql:postgresql'
 
 	implementation 'org.mapstruct:mapstruct:1.5.3.Final'
