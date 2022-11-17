@@ -14,4 +14,6 @@ public class PlatziUserDetailsService implements UserDetailsService {
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
         return new User("ggalvisc", "{noop}abc123", new ArrayList<>());
     }
+
+
 }
