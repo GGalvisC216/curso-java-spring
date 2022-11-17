@@ -48,3 +48,7 @@ java -jar "-Dspring.profiles.active=dev" build\libs\platzi-market-1.0.jar
     ```
     web: java -jar -Dspring.profiles.active=pdn build/libs/platzi-market-1.0.jar
     ```
+* Subir proyecto a Heroku
+  ```
+  git push heroku HEAD:master
+  ```
